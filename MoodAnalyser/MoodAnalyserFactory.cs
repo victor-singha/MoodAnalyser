@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace MoodAnalyser
@@ -45,7 +47,7 @@ namespace MoodAnalyser
         //below code is UC-5
         public static object CreateMoodAnalyseUsingParameterizedConstructor(string className, string constructorName, string message)
         {
-            Type type = typeof(MoodAnalyser);
+            Type type = typeof(MoodAnalyserClass);
             if (type.Name.Equals(className) || type.FullName.Equals(className))
             {
                 if (type.Name.Equals(constructorName))
