@@ -10,6 +10,9 @@ namespace MoodAnalyser
     {
         static void Main(string[] args)
         {
+            ReflectionMoodAnalyserClass.ReflectionTest();
+            ReflectionMoodAnalyserFactory.ReflectionTest();
+            Console.ReadKey();
         }
     }
 }

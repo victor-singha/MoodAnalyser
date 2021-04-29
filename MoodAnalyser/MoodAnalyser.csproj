@@ -48,6 +48,8 @@
     <Compile Include="MoodAnalyserFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReflectionMoodAnalyserClass.cs" />
+    <Compile Include="ReflectionMoodAnalyserFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
