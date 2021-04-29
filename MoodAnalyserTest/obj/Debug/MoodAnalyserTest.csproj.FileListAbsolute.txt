@@ -1,0 +1,17 @@
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\MoodAnalyserTest.dll
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\MoodAnalyserTest.pdb
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\MoodAnalyser.exe
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\MoodAnalyser.pdb
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\MoodAnalyser.exe.config
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\obj\Debug\MoodAnalyserTest.csprojAssemblyReference.cache
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\obj\Debug\MoodAnalyserTest.csproj.CoreCompileInputs.cache
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\obj\Debug\MoodAnalyserTest.csproj.CopyComplete
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\obj\Debug\MoodAnalyserTest.dll
+C:\Users\vicun\source\repos\MoodAnalyser\MoodAnalyserTest\obj\Debug\MoodAnalyserTest.pdb
